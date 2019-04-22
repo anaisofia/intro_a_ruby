@@ -1,10 +1,8 @@
-def gen(n)
-    letra.next
+def gen(cantidad)
+    letras = "a..z"
+    length.times do
+        palabra = AGRV[0]
 end 
-
-n = ARGV[0]
-n.times do
-    letra = a
 end
 
 return gen
